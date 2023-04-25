@@ -19,4 +19,4 @@ def count_vowels(s):
 print(count_vowels(s))
 
 #3
-lst=
+lst=aaaaa
